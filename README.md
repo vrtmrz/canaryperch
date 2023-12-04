@@ -2,7 +2,6 @@
 
 Canary Perch; Obsidian plugin for watching and catching a canary build from [Canary Nest](https://github.com/vrtmrz/canarynest).
 
-![Screenrecord](https://github.com/vrtmrz/canaryperch/assets/45774780/75ac52f1-c718-412b-b2df-ccc3d5cdff52)
 
 ## How to install
 
